@@ -75,3 +75,9 @@ body {
     color: #ccc;
     font-size: 0.95rem;
   }
+  .post-actions {
+    display: flex;
+  }
+  .bookmark {
+    margin-left: auto;
+  }
